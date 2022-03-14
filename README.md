@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @geek-hasan
 - 👀 I’m interested in Data, Cloud, Machine Learning, AI, Blockchain
 - 🌱 I’m currently learning Blockchain
-- 💞️ I’m looking to collaborate on smart contracts and DApps projects
+- 💞️ I’m looking to collaborate on smart contracts and DApps, Data pipelining, Big Data, and AWS projects
 - 📫 Reach me @ (hassantariq99@outlook.com)
 
 <!---
